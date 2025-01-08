@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>webpage</title>
+</head>
+<body>
+
+    <!-- Heading -->
+    <h1>Welcome to my Webpage</h1>
+
+    <!-- Paragraph -->
+    <p>Hello and welcome to my webpage.</p>
+
+    <!-- Sub-heading -->
+    <h2>About Me</h2>
+
+    <!-- Unordered List -->
+    <ul>
+         <li>i love playing sports</li>
+         <li>i love playing video games</li>
+         <li>i love football</li>
+    </ul>
+
+    <!-- Image -->
+    
+
+    <!-- Hyperlink -->
+    <p>Visit <a href="https://example.com">Example Website</a> for more info.</p>
+
+</body>
+</html>

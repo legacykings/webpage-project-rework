@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>all about Fortnite </title>
+
+</head>
+
+<body>
+
+<h1>Welcome to the Fortnite website that will tell you anytthing you need</h1>
+
+<p>This is a simple website about Fortnite.</p>
+
+<h2>Latest News</h2>
+
+<ul>
+
+  <li>New Season Update!</li>
+
+  <li>Upcoming Tournament!</li>
+
+</ul>
+
+<h2>Gameplay</h2>
+
+<p>Fortnite is a popular battle royale game that many people love to play world wide considered one of the biggest games know today.</p>
+
+<h2>Characters</h2>
+
+<p>Some popular characters include...</p>
+
+<img src="fortnite_image.jpg" alt="Fortnite Image" width="300">
+
+</body>
+
+</html>
